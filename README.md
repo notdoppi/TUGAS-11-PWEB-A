@@ -46,7 +46,7 @@ Laundry Crafty merupakan sistem informasi berbasis web yang digunakan untuk memb
 4. Tabel User :
    menyimpan data akun pengguna yang digunakan untuk login
 
-![image](<img width="1036" height="331" alt="image" src="https://github.com/user-attachments/assets/f8700a33-5c5b-415b-a10d-7fd756aa28ae" />)
+![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/98e9a4fea7a82991fda6fd5ff3a2027efe37c955/tugas%2011/table%20database.jpg)
 
 ## FrontEnd
 Untuk FrontEnd menggunakan framework Bootstrap agar tampilan terlihat rapi. setap halaman dilengkapi dengan :
