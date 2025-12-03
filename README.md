@@ -57,13 +57,13 @@ Untuk FrontEnd menggunakan framework Bootstrap agar tampilan terlihat rapi. seta
 
 ## Tampilan Web
 
-### Login Page
+### **Login Page**
 ![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/3132b9edef985ca631acba50d293c42790805862/tugas%2011/login%20page.jpg)
 
-### Dashboard
+### **Dashboard**
 ![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/3132b9edef985ca631acba50d293c42790805862/tugas%2011/dashboard.jpg)
 
-### Pelanggan
+### **Pelanggan**
 ![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/3132b9edef985ca631acba50d293c42790805862/tugas%2011/tab%20pelanggan.jpg)
 
 Menambah pelanggan
@@ -72,7 +72,7 @@ Menambah pelanggan
 Mengedit pelanggan
 ![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/3132b9edef985ca631acba50d293c42790805862/tugas%2011/edit%20pelanggan.jpg)
 
-### Layanan
+### **Layanan**
 ![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/3132b9edef985ca631acba50d293c42790805862/tugas%2011/tab%20layanan.jpg)
 
 Menambah layanan
@@ -81,11 +81,11 @@ Menambah layanan
 Mengedit layanan
 ![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/3132b9edef985ca631acba50d293c42790805862/tugas%2011/edit%20layanan.jpg)
 
-### Transaksi
+### **Transaksi**
 ![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/3132b9edef985ca631acba50d293c42790805862/tugas%2011/tab%20transaksi.jpg)
 
 Menambah Transaksi
 ![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/3132b9edef985ca631acba50d293c42790805862/tugas%2011/tambah%20transaksi.jpg)
 
-### Laporan
+### **Laporan**
 ![image](https://github.com/notdoppi/TUGAS-11-PWEB-A/blob/3132b9edef985ca631acba50d293c42790805862/tugas%2011/laporan.jpg)
